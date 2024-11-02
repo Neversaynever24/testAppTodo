@@ -72,7 +72,7 @@ fun CustomTopAppBar() {
                     start = 60.dp,
                     top = 50.dp,
                     end = 154.dp,
-                    bottom = 4.dp
+                    bottom = 5.dp
                 ),
             color = Color.Black
         )
