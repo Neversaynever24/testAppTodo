@@ -110,7 +110,7 @@ fun MainScreen(numOfChecked: String) {
                         .verticalScroll(rememberScrollState()),
                     horizontalAlignment = Alignment.CenterHorizontally
                 ) {
-                    for (i in 0..100) {
+                    for (i in 0..6) {
                         Text(
                             text = "Item $i",
                             color = Color.Black,
