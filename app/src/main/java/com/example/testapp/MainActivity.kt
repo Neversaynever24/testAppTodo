@@ -72,7 +72,7 @@ fun CustomTopAppBar() {
                     start = 60.dp,
                     top = 50.dp,
                     end = 154.dp,
-                    bottom = 4.dp
+                    bottom = 5.dp
                 ),
             color = Color.Black
         )
@@ -97,7 +97,7 @@ fun MainScreen(numOfChecked: String) {
                     horizontalArrangement = Arrangement.Center
                 ) {
                     Text(
-                        "Выполне $numOfChecked заданий",
+                        "Выполнено $numOfChecked заданий",
                         color = Color(0x6010004D),
                         modifier = Modifier.padding(paddingValues).padding(bottom = 16.dp)
                     )
