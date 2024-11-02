@@ -53,8 +53,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-
-
 @Composable
 fun CustomTopAppBar() {
     val primary = MaterialTheme.colorScheme.primary
