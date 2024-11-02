@@ -98,7 +98,7 @@ fun MainScreen(numOfChecked: String) {
                 ) {
                     Text(
                         "Выполнено $numOfChecked заданий",
-                        color = Color(0x6010004D),
+                        color = Color(0x6110004D),
                         modifier = Modifier.padding(paddingValues).padding(bottom = 16.dp)
                     )
                 }
