@@ -137,7 +137,7 @@ fun MyApp() {
         // add more colors
     )
     val darkColors = darkColorScheme(
-        primary = Color(0xFF161618)
+        primary = Color(0xFF161608)
         // add more colors
     )
 
