@@ -99,7 +99,7 @@ fun MainScreen(numOfChecked: String) {
                     horizontalArrangement = Arrangement.Center
                 ) {
                     Text(
-                        "Выполнено $numOfChecked задания",
+                        "Выполне $numOfChecked заданий",
                         color = Color(0x6000004D),
                         modifier = Modifier.padding(paddingValues).padding(bottom = 16.dp)
                     )
